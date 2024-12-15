@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mertdeha Mert Deha KARAYEL. I am a university student in Turkey. 
+- 👋 Hi, I’m @mertdeha Mert Deha KARAYEL. I am a Computer Science student in Turkey. 
 - 👀 I’m interested in coding, creating new projects and game development.  
-- 🌱 I’m currently learning frontend development and computer engineering 
+- 🌱 I’m currently learning frontend development, Javascript and React Native 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mertdehakarayel@gmail.com
 - 😄 Pronouns: ...
