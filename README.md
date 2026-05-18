@@ -7,9 +7,7 @@
 
 - 🤝 I am looking forward to **learning new things, creating more projects and improving myself**
 
-- 🔮 I develop projects with **HTML, CSS, JavaScript and React**
-
-- 💞️ I’m looking to collaborate on **new projects, including web designing and game development.**
+- 🔮 I develop projects with **JavaScript and React**
 
 - 📫 How to reach me **mertdehakarayel@gmail.com**
 
