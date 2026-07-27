@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Deha Karayel</h1>
-<h3 align="center">A passionate Frontend developer and a future Computer Engineer</h3>
+<h3 align="center">Computer Engineer Undergraduate Student</h3>
 
 - 🔭 I’m interested in **coding, creating new projects and technology**
 
