@@ -1,7 +1,7 @@
 <h1 align="center">Mert Deha Karayel</h1>
 <h3 align="center">Computer Engineer Undergraduate Student</h3>
 
-- 📫 How to reach me **mertdehakarayel@gmail.com**
+- **mertdehakarayel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
