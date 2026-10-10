@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mert Deha Karayel</h1>
+<h1 align="center">Mert Deha Karayel</h1>
 <h3 align="center">Computer Engineer Undergraduate Student</h3>
-
-- 🔭 I’m interested in **coding, creating new projects and technology**
-
-- 🌱 I’m currently learning **Frontend development, Javascript, Typescript and React**
-
-- 🤝 I am looking forward to **learning new things, creating more projects and improving myself**
-
-- 🔮 I develop projects with **JavaScript and React**
 
 - 📫 How to reach me **mertdehakarayel@gmail.com**
 
